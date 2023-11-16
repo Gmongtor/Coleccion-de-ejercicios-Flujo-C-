@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\monge\Documents\GitHub\Coleccion-de-ejercicios-Flujo-C-\Ejercicio 2 v2 Select CMakeLists.txt
